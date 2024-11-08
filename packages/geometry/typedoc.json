@@ -1,0 +1,4 @@
+{
+  "out": "docs/",
+  "exclude": "**/*.spec.ts"
+}
